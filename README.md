@@ -79,8 +79,8 @@ This project implements a dual-function embedded system using the NUCLEO-F401RE 
 
 ## Author
 
-[Your Name]
-[Your Academic Identifier]
+[Youssef Ahmed Abdelsatar-Muhnnad Nasir El-din Aly]
+[ID:2001275-2001556]
 Department of Mechatronics
 Faculty of Engineering
 Ain Shams University
